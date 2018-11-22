@@ -7,5 +7,6 @@ public class day2 {
 	@Test
 	public void demo3() {
 		System.out.println("teste212");
+		System.out.println("Google");
 	}
 }
